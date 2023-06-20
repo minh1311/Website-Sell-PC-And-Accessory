@@ -1,0 +1,4 @@
+đặc tả
+biểu đồ usecase
+biểu đồ tuần tự
+thiết kế giao diện
